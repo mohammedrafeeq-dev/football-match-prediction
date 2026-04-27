@@ -87,9 +87,9 @@ The system currently uses **XGBoost** as its champion model, achieving an accura
 4. **Training**: Using a chronological split (80/20) to prevent data leakage.
 5. **Hyper-tuning**: Optimizing learning rates and tree depth for maximum generalization.
 
-## 🌟 About the Developer
+## 🌟 Project Status
 
-Built by **Antigravity**, Senior AI Product Developer. This project serves as a showcase for production-level ML engineering, UI/UX design in data products, and advanced predictive analytics.
+This project serves as a comprehensive showcase for production-level ML engineering, UI/UX design in data products, and advanced predictive analytics.
 
 ---
 *Disclaimer: This tool is for educational and analytical purposes only. Sports betting involves risk.*

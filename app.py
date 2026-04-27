@@ -275,4 +275,4 @@ elif page == "About":
     - [ ] Multi-league support (La Liga, Champions League)
     - [ ] Betting value identification engine
     """)
-    st.info("Developed by Antigravity | Senior AI Product Developer")
+    st.info("AI-Powered Football Analytics Platform | Professional Series")
