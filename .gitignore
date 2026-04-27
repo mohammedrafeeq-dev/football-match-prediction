@@ -31,6 +31,7 @@ ENV/
 .streamlit/
 
 # Project Specific
-data/matches.csv
-data/engineered_matches.csv
-models/*.pkl
+# We keep models and processed data in the repo for instant deployment
+# data/matches.csv
+# data/engineered_matches.csv
+# models/*.pkl
