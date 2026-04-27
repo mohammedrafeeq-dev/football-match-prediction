@@ -6,7 +6,9 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 An end-to-end Machine Learning solution for predicting football match outcomes (Home Win, Draw, Away Win) with high precision. This project features a professional ML pipeline, advanced feature engineering, and a premium interactive dashboard designed for sports analysts and data professionals.
-
+ 
+**🔗 [Live Demo - View the Platform](https://pl-match-prediction.streamlit.app/)**
+ 
 ## 🚀 Key Features
 
 - **End-to-End Pipeline**: From raw CSV ingestion to production-ready inference.
